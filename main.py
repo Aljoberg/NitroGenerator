@@ -3,7 +3,6 @@ import random
 import string
 import time
 import ctypes
-
 try: # Check if the requrements have been installed
     from discord_webhook import DiscordWebhook # Try to import discord_webhook
 except ImportError: # If it chould not be installed
