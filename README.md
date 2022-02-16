@@ -1,6 +1,6 @@
 # Aljo's nitro generator
 
-This is a nitro generator made by Aljo#1855.
+This is a nitro generator made by Aljo#1855 and NO ONE ELSE like LosT#1111.
 ## Installation
 
 Install requests and discord_webhook by doing
